@@ -43,8 +43,9 @@ Linux Docker homework
     ```
 
 7) Return to containers terminals. Enter target directory and run scripts:
-    ```cd hw```
-    ```./server.sh``` - for hw_2 container
-    ```./client.sh``` - for hw_1 container
-
+    ```
+    cd hw
+    ./server.sh - for hw_2 container
+    ./client.sh - for hw_1 container
+    ```
 8) Send any text from client to server and check if it was recieved.
